@@ -1,5 +1,6 @@
 
 public class MySorter {
+	private String food;
 	public double[] sort(double[] d) {
 		if (d.length == 0) {
 			double[] d2 = { 0.0 };
@@ -20,6 +21,9 @@ public class MySorter {
 	public void swap(double d[], int k, int s) {
 		double temp = d[k];
 		d[k] = d[s];
+		
+		
+		
 		
 		
 		
