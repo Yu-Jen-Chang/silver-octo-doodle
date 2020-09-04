@@ -2,6 +2,7 @@
 public class MySorter {
 	private String food;
 	private int fish;
+	private int cat;
 	public double[] sort(double[] d) {
 		if (d.length == 0) {
 			double[] d2 = { 0.0 };
