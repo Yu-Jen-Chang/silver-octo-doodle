@@ -20,7 +20,17 @@ public class MySorter {
 	public void swap(double d[], int k, int s) {
 		double temp = d[k];
 		d[k] = d[s];
-		d[s] = temp;
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 	}
 }
