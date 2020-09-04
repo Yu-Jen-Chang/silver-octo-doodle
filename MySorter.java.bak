@@ -21,6 +21,6 @@ public class MySorter {
 		double temp = d[k];
 		d[k] = d[s];
 		d[s] = temp;
-		
+		int i = 0;
 	}
 }
